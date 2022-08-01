@@ -1,1 +1,1 @@
-# Medici-n-por-visi-n-artificial
+# Medicion-por-vision-artificial
